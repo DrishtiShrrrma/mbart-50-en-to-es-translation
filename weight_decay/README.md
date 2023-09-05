@@ -30,8 +30,8 @@ Observations:
 
 Recommendations:
 
-1. If training time is a critical factor, you might want to choose the configuration that trains faster. In this case, the weight decay of 1e-1 seems to be a bit faster.
+1. If training time is a critical factor, the weight decay of 1e-1 seems to be a bit faster.
 2. If you want the best performance based on the metrics, the configuration with weight decay 1e-1 at Epoch 4 seems to have the highest scores among all.
-3. If you're going to train for more epochs, it would be interesting to see if the metrics continue to improve or if they start to plateau or degrade.
+3. If training for more epochs, it would be interesting to see if the metrics continue to improve or if they start to plateau or degrade.
 
 Remember, while these metrics provide a quantitative measure of the model's performance, it's also essential to consider qualitative evaluations (e.g., human evaluation) to understand the real-world applicability of the trained model.
