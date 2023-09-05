@@ -1,6 +1,6 @@
 
 
-# Summarized Tabular Form of the Results for Different Weight Decay Cases
+### Summarized Tabular Form of the Results for Different Weight Decay Cases
 
 | Weight Decay | Epoch | Training Loss | Validation Loss | Bleu       | Rouge1    | Rouge2    | RougeL    | RougeLsum | Training Time | Evaluation Time |
 |--------------|-------|---------------|-----------------|------------|-----------|-----------|-----------|-----------|---------------|-----------------|
